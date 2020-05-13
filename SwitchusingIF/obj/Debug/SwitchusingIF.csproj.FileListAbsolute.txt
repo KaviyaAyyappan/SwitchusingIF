@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\SwitchusingIF\SwitchusingIF\obj\Debug\SwitchusingIF.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\SwitchusingIF\SwitchusingIF\obj\Debug\SwitchusingIF.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\SwitchusingIF\SwitchusingIF\bin\Debug\SwitchusingIF.exe.config
+C:\Users\kaviya\source\repos\SwitchusingIF\SwitchusingIF\bin\Debug\SwitchusingIF.exe
+C:\Users\kaviya\source\repos\SwitchusingIF\SwitchusingIF\bin\Debug\SwitchusingIF.pdb
+C:\Users\kaviya\source\repos\SwitchusingIF\SwitchusingIF\obj\Debug\SwitchusingIF.exe
+C:\Users\kaviya\source\repos\SwitchusingIF\SwitchusingIF\obj\Debug\SwitchusingIF.pdb
